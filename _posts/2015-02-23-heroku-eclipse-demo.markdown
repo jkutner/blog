@@ -2,6 +2,7 @@
 layout: post
 title:  "How to Deploy to Heroku from Eclipse"
 date:   2015-02-23 22:18:00
+categories: blog
 ---
 
 This short video (less than a minute and a half) demonstrates how to create,
