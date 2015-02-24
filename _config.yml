@@ -6,7 +6,7 @@ markdown: redcarpet
 highlighter: pygments
 logo: false
 paginate: 15
-baseurl: /blog/
+baseurl: blog/
 domain_name: 'http://jkutner.github.com/blog'
 google_analytics: 'UA-XXXXXXXX-X'
 
