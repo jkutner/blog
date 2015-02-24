@@ -1,12 +1,12 @@
 name: codefinger
-description: 
+description:
 meta_description: "JVM Programmer, Author, Codefinger"
 
 markdown: redcarpet
 highlighter: pygments
 logo: false
 paginate: 15
-baseurl: /
+baseurl: /blog
 domain_name: 'http://yourblog-domain.com'
 google_analytics: 'UA-XXXXXXXX-X'
 
