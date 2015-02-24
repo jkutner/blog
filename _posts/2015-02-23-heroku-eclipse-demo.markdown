@@ -4,7 +4,7 @@ title:  "How to Deploy to Heroku from Eclipse"
 date:   2015-02-23 22:18:00
 ---
 
-This short video (less than a minute and a half), demonstrates how to create,
+This short video (less than a minute and a half) demonstrates how to create,
 deploy and configure a Heroku application from Eclipse.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NcCeUp4rygU?vq=hd720" frameborder="0" allowfullscreen></iframe>
